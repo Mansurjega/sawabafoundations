@@ -12,7 +12,7 @@ env:
   NPMRegistry: https://registry.npmjs.org/
   InstallCommand: npm ci
   BuildCommand: npm run build
-  Output: ./sawabafoundations
+  Output: ./donations
 
 jobs:
   build:
